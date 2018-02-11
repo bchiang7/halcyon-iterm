@@ -1,1 +1,1 @@
-# halcyon-iterm
+# Halcyon for iTerm
