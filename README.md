@@ -14,3 +14,7 @@ Here are my settings:
 ![](images/settings.png)
 
 I'm currently using the [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt) for [ZSH](http://zsh.org/)
+
+## Shameless Plug
+
+Halcyon is also available for Sublime Text, VS Code, Hyper, and more! Check out all available options [here](https://brittanychiang.com/halcyon-site/).
