@@ -1,4 +1,4 @@
-# Halcyon for iTerm
+# Halcyon for iTerm2
 
 ![](images/demo.png)
 
@@ -9,7 +9,7 @@
 1. Under the `Colors` tab find `Color Presets > Import`
 1. Import the `halcyon.itermcolors` file
 
-Here are my settings:
+## Settings
 
 ![](images/settings.png)
 
@@ -17,4 +17,4 @@ I'm currently using the [Spaceship Prompt](https://github.com/denysdovhan/spaces
 
 ## Shameless Plug
 
-Halcyon is also available for Sublime Text, VS Code, Hyper, and more! Check out all available options [here](https://brittanychiang.com/halcyon-site/).
+Halcyon is also available for Sublime Text, VS Code, Hyper, and more! Check out all available options [here](https://halcyon-theme.netlify.com/).
